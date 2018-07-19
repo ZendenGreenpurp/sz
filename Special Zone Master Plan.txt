@@ -63,7 +63,7 @@ The Effect Effect
 Doors Between Doors	- Exploring beyond			WATER
 -------------------
 Flight of the Puma
-Bite the Blob
+Pristine Zombie
 Captain Starknuckle
 Journey 2 Tha Stars
 Space... Woah
@@ -117,6 +117,7 @@ Childish Delights
 Toxic Smog Dogz
 ---------------
 Danger Dog/ Caution Cat
+Bite the Blob
 
 
 
@@ -129,7 +130,7 @@ The albums follow the same structure:
 
 1. Kick ass track - showcasing what the sonic style developed for the album can do
 2. A level deeper - taking the momentum and breaking further, weirder thematic ground
-3. Character track - a track sung about an individual that embodies the theme. Sonically agressive.
+3. Character track - a track sung about an individual that embodies the theme.
 4. Hit single - a wry pop song on the theme with pop focus of unguarded emotional confession
 5. Freak out - an instrumental pushing the sonic style beyond its limits
 6. Adventure track - the epic where the different sub themes are tied together and played out
